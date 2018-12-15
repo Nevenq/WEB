@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e99be98b-b975-4407-8fc1-ab6af88c04f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/1.DebugInBrowser.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/1.DebugInBrowser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/2.DebugInWebstorm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/2.DebugInWebstorm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/3.EventLoop.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/3.EventLoop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/4.1.Callbacks.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/4.1.Callbacks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/4.DuckTyping.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/4.DuckTyping.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/Gruntfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/css-themes-build.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/css-themes-build.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/css-themes-install.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/css-themes-install.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/css/highlight/darkula-for-dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/css/highlight/darkula-for-dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/css/highlight/idea-for-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/css/highlight/idea-for-light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/css/reveal.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/css/reveal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/css/reveal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/css/reveal.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/css/theme/kontur-dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/css/theme/kontur-dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/css/theme/kontur-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/css/theme/kontur-light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/css/theme/source/kontur-dark.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/css/theme/source/kontur-dark.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/css/theme/source/kontur-light.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/css/theme/source/kontur-light.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/css/theme/template/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/css/theme/template/mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/css/theme/template/settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/css/theme/template/settings.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/css/theme/template/theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/css/theme/template/theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/initialize.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/initialize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/js/classList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/js/classList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/js/d3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/js/d3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/js/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/js/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/js/head.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/js/head.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/js/html5shiv.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/js/html5shiv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/js/reveal.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/js/reveal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/plugin/highlight/highlight.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/plugin/highlight/highlight.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/plugin/markdown-modified/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/plugin/markdown-modified/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/plugin/markdown-modified/example.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/plugin/markdown-modified/example.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/plugin/markdown-modified/markdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/plugin/markdown-modified/markdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/plugin/markdown-modified/marked.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/plugin/markdown-modified/marked.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/plugin/menu-modified/font-awesome-4.3.0/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/plugin/menu-modified/font-awesome-4.3.0/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/plugin/menu-modified/font-awesome-4.3.0/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/plugin/menu-modified/font-awesome-4.3.0/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/plugin/menu-modified/font-awesome-4.3.0/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/plugin/menu-modified/font-awesome-4.3.0/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/plugin/menu-modified/font-awesome-4.3.0/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/plugin/menu-modified/font-awesome-4.3.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/plugin/menu-modified/lib/bowser.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/plugin/menu-modified/lib/bowser.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/plugin/menu-modified/lib/jeesh.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/plugin/menu-modified/lib/jeesh.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/plugin/menu-modified/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/plugin/menu-modified/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/plugin/menu-modified/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/plugin/menu-modified/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/plugin/notes/notes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/plugin/notes/notes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lessons/reveal/plugin/notes/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lessons/reveal/plugin/notes/notes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.tic-tac-toe/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.tic-tac-toe/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.tic-tac-toe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.tic-tac-toe/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.tic-tac-toe/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.tic-tac-toe/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.tic-tac-toe/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.tic-tac-toe/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.todo-statistic/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.todo-statistic/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.todo-statistic/console.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.todo-statistic/console.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.todo-statistic/fileSystem.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.todo-statistic/fileSystem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.todo-statistic/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.todo-statistic/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.animaster/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.animaster/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.animaster/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.animaster/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.animaster/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.animaster/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.animaster/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.animaster/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.world-wide-west/Card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.world-wide-west/CardView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.world-wide-west/Game.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.world-wide-west/Player.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.world-wide-west/PlayerView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.world-wide-west/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.world-wide-west/TaskQueue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.world-wide-west/images/bandit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.world-wide-west/images/sheriff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.world-wide-west/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.world-wide-west/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.world-wide-west/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../event-loop.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../event-loop.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="808967529">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="2" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="17" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Card.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+              <folding>
+                <element signature="e#37#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e99be98b-b975-4407-8fc1-ab6af88c04f8" name="Default Changelist" comment="" />
+      <created>1540486661781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540486661781</updated>
+      <workItem from="1540486663804" duration="259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="259000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../Pasha Semenikhin/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="227" selection-start-line="227" selection-end-line="236" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Card.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+          <folding>
+            <element signature="e#37#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
