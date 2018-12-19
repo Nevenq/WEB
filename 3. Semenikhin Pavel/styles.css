@@ -35,6 +35,9 @@
     box-sizing: border-box;
     background-color: #8d3f8d;
     border: 2px solid #421456;
+    font-size: 30px;
+    line-height: 30px;
+    overflow: hidden;
     color: white;
     transition-property: all;
     transition-timing-function: ease;
